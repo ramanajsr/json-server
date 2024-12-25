@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Developer",
+      "office": "New York",
+      "age": 30,
+      "startdate": "2023-01-01",
+      "salary": "50000"
+    }
+  ]
+}
