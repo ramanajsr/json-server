@@ -1,4 +1,5 @@
-"users" : [
+{
+  "users" : [
   {
     "name": "James Jenkins",
     "id": "1"
@@ -104,3 +105,4 @@
     "id": "26"
   }
 ]
+}
