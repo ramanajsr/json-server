@@ -1,13 +1,106 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "position": "Developer",
-      "office": "New York",
-      "age": 30,
-      "startdate": "2023-01-01",
-      "salary": "50000"
-    }
-  ]
-}
+[
+  {
+    "name": "James Jenkins",
+    "id": "1"
+  },
+  {
+    "name": "Javier Batz",
+    "id": "2"
+  },
+  {
+    "name": "Emmett Waters",
+    "id": "3"
+  },
+  {
+    "name": "Ms. Kristin O'Conner",
+    "id": "4"
+  },
+  {
+    "name": "Archie Deckow III",
+    "id": "5"
+  },
+  {
+    "name": "Carrie Wilderman III",
+    "id": "6"
+  },
+  {
+    "name": "Ed Stanton PhD",
+    "id": "7"
+  },
+  {
+    "name": "Mona Kulas",
+    "id": "8"
+  },
+  {
+    "name": "Shelley Wisozk",
+    "id": "9"
+  },
+  {
+    "name": "Ella Block",
+    "id": "10"
+  },
+  {
+    "name": "Leona Huels",
+    "id": "11"
+  },
+  {
+    "name": "Lee Haag IV",
+    "id": "12"
+  },
+  {
+    "name": "Ralph Wehner",
+    "id": "13"
+  },
+  {
+    "name": "Mr. Emmett Ortiz",
+    "id": "14"
+  },
+  {
+    "name": "Donnie Reilly",
+    "id": "15"
+  },
+  {
+    "name": "Shannon Effertz",
+    "id": "16"
+  },
+  {
+    "name": "Manuel Hickle",
+    "id": "17"
+  },
+  {
+    "name": "Miss Herman Feil",
+    "id": "18"
+  },
+  {
+    "name": "Misty Kihn",
+    "id": "19"
+  },
+  {
+    "name": "Seth Spinka PhD",
+    "id": "20"
+  },
+  {
+    "name": "Julius Collins",
+    "id": "21"
+  },
+  {
+    "name": "Abraham Cole",
+    "id": "22"
+  },
+  {
+    "name": "Scott MacGyver",
+    "id": "23"
+  },
+  {
+    "name": "Mrs. Janis Mills",
+    "id": "24"
+  },
+  {
+    "name": "Edmond Schumm",
+    "id": "25"
+  },
+  {
+    "name": "June Feil",
+    "id": "26"
+  }
+]
