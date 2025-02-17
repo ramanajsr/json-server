@@ -1,5 +1,5 @@
 {
-  'msg' : 'Welcome to my JSON server. Do CRUD with me temporarily'
+  "msg" : "Welcome to my JSON server. Do CRUD with me temporarily"
   "users" : [
   {
     "name": "James Jenkins",
